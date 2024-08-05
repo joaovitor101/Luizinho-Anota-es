@@ -1,0 +1,17 @@
+JRE (Java Runtime Environment)
+
+Significa Ambiente de tempo de execução
+é um pacote de software, que é executado como um aplicativo do sistema operacional e que interpreta a execução de programas java.
+
+a JRE é composta pela JVM somada ao conjunto de API (JVM + API = JRE)
+
+
+JDK (Java Development kit) ou SDK
+
+Significa kit de desenvolvimento java
+conjunto de ferramentas para a compilação, documentação e debug de aplicativos java
+
+composto pela JRE somada as ferramentas de desenvolvimento
+
+
+	
